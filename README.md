@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @PremVishal21
-- 👀 I’m interested in Web development ...
-- 🌱 I’m currently Pursuing my btech..
-
-
-<!---
-PremVishal21/PremVishal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Computer Science Engineering Student | AI/ML & Web Developer
+🤖 Building AI-powered applications & intelligent solutions
+🎨 UI/UX Designer | Prompt Engineer | Creative Problem Solver
+⚡ React.js • JavaScript • Python • AI/ML • Figma
+🚀 Turning ideas into interactive, real-world projects
+🎯 Exploring Generative AI, Agentic AI & modern web technologies
