@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- TYPING SVG TITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Peddakotla+Prem+Vishal+👋;Full-Stack+Web+%26+AI%2FML+Engineer" alt="Typing SVG" />
-</a>
+
 
 <p align="center">
   <b>Software Developer • AI/ML Enthusiast • Cloud & Generative AI Builder • Open Source Sailor</b>
