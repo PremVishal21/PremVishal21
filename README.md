@@ -51,9 +51,9 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PremVishal21/PremVishal21/main/assets/luffy_avatar.png" width="280px" style="border-radius: 15px; border: 3px solid #DA2727;" alt="Prem Vishal Luffy Avatar" />
+      <img src="assets/luffy_avatar.png" width="280px" style="border-radius: 15px; border: 3px solid #DA2727;" alt="Prem Vishal Luffy Avatar" />
       <br/>
-      <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 24px; font-weight: bold; color: #FFD700; text-shadow: 2px 2px 4px rgba(218, 39, 39, 0.5); letter-spacing: 2px; margin-top: 10px;">
+      <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px; font-weight: bold; color: #FFD700; text-shadow: 2px 2px 4px rgba(218, 39, 39, 0.7); letter-spacing: 3px; margin-top: 15px; transform: scaleY(1.1);">
         Yo!
       </div>
     </td>
@@ -207,7 +207,7 @@
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremVishal21&theme=react-dark&bg_color=0D1117&color=DA2727&line=FFD700&point=DA2727&area=true&hide_border=true" alt="Contribution Activity Graph" />
