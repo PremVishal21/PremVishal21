@@ -51,9 +51,11 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="assets/luffy_avatar.png" width="280px" style="border-radius: 15px; border: 3px solid #DA2727;" alt="Prem Vishal Luffy Avatar" />
+      <img src="https://raw.githubusercontent.com/PremVishal21/PremVishal21/main/assets/luffy_avatar.png" width="280px" style="border-radius: 15px; border: 3px solid #DA2727;" alt="Prem Vishal Luffy Avatar" />
       <br/>
-      <sub><b>Captain Prem Vishal</b><br/><i>Coding at Gear 5 Speed ⚡</i></sub>
+      <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 24px; font-weight: bold; color: #FFD700; text-shadow: 2px 2px 4px rgba(218, 39, 39, 0.5); letter-spacing: 2px; margin-top: 10px;">
+        Yo!
+      </div>
     </td>
   </tr>
 </table>
@@ -188,7 +190,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PremVishal21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DA2727&icon_color=FFD700&text_color=c9d1d9" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PremVishal21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DA2727&icon_color=FFD700&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremVishal21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DA2727&text_color=c9d1d9" alt="Top Languages" />
@@ -201,12 +203,6 @@
   </tr>
 </table>
 
-<br/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=PremVishal21&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="PremVishal21 Trophies" />
-
 </div>
 
 ---
@@ -214,7 +210,7 @@
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremVishal21&theme=react-dark&bg_color=0D1117&color=DA2727&line=FFD700&point=DA2727&area=true&hide_border=true" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PremVishal21&theme=react-dark&bg_color=0D1117&color=DA2727&line=FFD700&point=DA2727&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
