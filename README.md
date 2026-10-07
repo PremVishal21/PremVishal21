@@ -1,56 +1,72 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=300&section=header&text=Prem%20Vishal&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50)
+# 👋 Prem Vishal
 
-### 👋 Hey there, I'm Prem Vishal
+![Profile Views](https://komarev.com/ghpvc/?username=PremVishal21&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/PremVishal21?style=social&label=Followers)
 
-**Full Stack Developer | AI/ML Engineer | Generative AI Builder | Cloud & DevOps Enthusiast**
+<br>
+
+### 🚀 Full Stack Developer | 🤖 AI/ML Engineer | ☁️ Cloud Architect
+
+*Building intelligent, scalable solutions with modern technology*
+
+<br>
 
 <a href="https://github.com/PremVishal21">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/PremVishal21?style=social&label=Followers" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/prem-vishal-362ba22a1">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:shoviasj@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="mailto:shovisjo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 💼 About Me
 
+<table>
+  <tr>
+    <td width="50%">
+
+### Who I Am
 ```
-💻 Full Stack Developer passionate about building modern, scalable web applications
-🤖 AI/ML Engineer with hands-on experience in machine learning & generative AI
-☁️ Cloud Architect focused on AWS, Docker & Kubernetes deployments
-🚀 Generative AI Specialist - Building AI-powered applications & LLM integrations
-📊 Data Science Enthusiast - Experienced in data analysis, model training & optimization
-🔧 DevOps & Backend Engineer - REST APIs, microservices, database optimization
-🎯 Goal: Create intelligent, scalable products that solve real-world problems
-🏆 Currently exploring: Advanced AI architectures, System Design & Cloud solutions
-🎨 Passionate about AI, problem-solving, open-source contribution & continuous learning
+✨ Full Stack Developer passionate about building scalable, modern web applications
+🤖 AI/ML Engineer focused on intelligent, data-driven solutions
+☁️ Cloud enthusiast exploring AWS, Docker, and Kubernetes
+🚀 Generative AI builder creating LLM-powered experiences
+📊 Data science lover turning raw data into actionable insights
+🔧 DevOps-minded engineer automating deployment and delivery
+🎯 Problem solver who enjoys building elegant and efficient systems
 ```
+
+    </td>
+    <td width="50%">
+
+### What I Do
+- 🌐 Build full-stack applications with clean architecture
+- 🤖 Develop AI/ML models and Generative AI integrations
+- ☁️ Design and deploy cloud-native systems
+- 📈 Optimize backend performance and database efficiency
+- 🔄 Implement CI/CD and automation workflows
+- 🧠 Create innovative products powered by intelligence
+- 🔗 Deliver scalable APIs and microservices
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
+### 💻 Frontend Development
 <div align="center">
 
-![Prem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PremVishal21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PremVishal21&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,7 +75,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+</div>
+
 ### 🔧 Backend Development
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -67,7 +87,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
+</div>
+
 ### 🤖 AI/ML & Generative AI
+<div align="center">
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -77,13 +101,21 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 💾 Databases
+</div>
+
+### 💾 Database & Data
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+</div>
+
 ### ☁️ Cloud & DevOps
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -91,7 +123,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🛠️ Development Tools & Libraries
+</div>
+
+### 🛠️ Tools & IDE
+<div align="center">
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -99,78 +135,95 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Experience Highlights
+## 📊 GitHub Statistics
 
-### 🎯 **Core Competencies**
+<div align="center">
 
-| Backend Development | Frontend Development | AI/ML Engineering | Cloud & DevOps |
+![Prem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PremVishal21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&border_color=30363d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PremVishal21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=30363d)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+| 🌐 Frontend | 🔧 Backend | 🤖 AI/ML | ☁️ Cloud |
 |---|---|---|---|
-| REST APIs & Microservices | React & Next.js | Machine Learning Models | AWS Deployment |
-| Node.js & Express | TypeScript & JavaScript | Generative AI Integration | Docker & Kubernetes |
-| Python & Django | Responsive Design | Data Analysis & Processing | CI/CD Pipelines |
-| Database Optimization | State Management | Model Training & Evaluation | Infrastructure |
-
-### 💼 **Key Projects & Achievements**
-
-- ✅ Developed **AI-powered applications** using LLMs and Generative AI technologies
-- ✅ Built **full-stack web applications** with modern frameworks (React, Next.js, Node.js)
-- ✅ Designed and deployed **scalable cloud infrastructure** on AWS & Google Cloud
-- ✅ Implemented **machine learning models** for predictive analysis and intelligent automation
-- ✅ Created **REST APIs** and microservices with proper error handling and optimization
-- ✅ Optimized **database performance** through indexing, query optimization, and caching
-- ✅ Contributed to **open-source projects** and built production-grade applications
-- ✅ Mastered **DevOps practices** including Docker, Kubernetes, and CI/CD pipelines
+| React & Next.js | REST APIs | ML Models | AWS |
+| TypeScript | Microservices | Deep Learning | Docker |
+| Tailwind CSS | Node.js & Python | Generative AI | Kubernetes |
+| Responsive Design | Database Optimization | Data Science | CI/CD |
 
 ---
 
-## 📚 **Areas of Expertise**
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🌐 Web Development</h3>
-      <p>Full-stack applications with modern frameworks & best practices</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🤖 AI/ML Engineering</h3>
-      <p>Machine learning, deep learning & generative AI solutions</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>☁️ Cloud Architecture</h3>
-      <p>Scalable, secure & cost-effective cloud infrastructure</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀 DevOps & Backend</h3>
-      <p>Microservices, APIs, databases & deployment automation</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 Contribution Stats
+## 💪 Expertise Showcase
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PremVishal21&theme=tokyonight&hide_border=true)
+| Skill Area | Proficiency |
+|---|---|
+| **Full-Stack Development** | ⭐⭐⭐⭐⭐ |
+| **AI/ML Engineering** | ⭐⭐⭐⭐⭐ |
+| **Cloud Architecture** | ⭐⭐⭐⭐ |
+| **DevOps & Deployment** | ⭐⭐⭐⭐ |
+| **Database Design** | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
-
-I'm always excited to discuss **AI, Machine Learning, Cloud Architecture, and innovative web applications**. Let's build something amazing together!
+## 🔥 Activity & Contribution
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-vishal-362ba22a1)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremVishal21)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoviasj@gmail.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PremVishal21&theme=tokyonight&hide_border=true&background=0d1117)
 
-**Open for:** Full-time roles | Freelance projects | AI/ML collaborations | Open-source contributions
+</div>
+
+---
+
+## 🚀 Quick Projects Highlights
+
+- ✨ **AI-Powered Applications** - LLM integrations and Generative AI solutions
+- 🌐 **Full-Stack Web Apps** - Modern React, Next.js, and Node.js applications
+- 📊 **ML Solutions** - Predictive models and data analysis pipelines
+- ☁️ **Cloud Infrastructure** - Scalable AWS & GCP deployments
+- 🔄 **Microservices** - Containerized, production-grade services
+- 🗄️ **Database Systems** - Optimized queries and performance tuning
+- 📱 **Responsive Designs** - Beautiful, user-centric interfaces
+
+---
+
+## 🌟 Let's Connect & Build Together!
+
+I'm passionate about **AI, Machine Learning, Cloud Architecture, and innovative web solutions**.
+Let's collaborate on something extraordinary!
+
+<div align="center">
+
+### Get in Touch
+
+<a href="https://github.com/PremVishal21">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<a href="https://www.linkedin.com/in/prem-vishal-362ba22a1">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+
+<a href="mailto:shovisjo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br><br>
+
+**Open for:** 💼 Full-time roles | 🤝 Freelance projects | 🤖 AI/ML collaborations | 🌐 Open-source contributions
 
 </div>
 
@@ -178,10 +231,14 @@ I'm always excited to discuss **AI, Machine Learning, Cloud Architecture, and in
 
 <div align="center">
 
-### 🌟 **"Code, Create, and Change the World with AI"** 🌟
+### 💡 *"Code, Create, and Change the World with AI"* 💡
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* ✨
+*Thanks for visiting my profile! Explore my repositories and let's build something amazing together.* ✨
 
 **Happy Coding! 💻🚀**
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
