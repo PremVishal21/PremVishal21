@@ -29,10 +29,6 @@
 
 ## 💼 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-
 ### Who I Am
 ```
 ✨ Full Stack Developer passionate about building scalable, modern web applications
@@ -44,9 +40,6 @@
 🎯 Problem solver who enjoys building elegant and efficient systems
 ```
 
-    </td>
-    <td width="50%">
-
 ### What I Do
 - 🌐 Build full-stack applications with clean architecture
 - 🤖 Develop AI/ML models and Generative AI integrations
@@ -55,10 +48,6 @@
 - 🔄 Implement CI/CD and automation workflows
 - 🧠 Create innovative products powered by intelligence
 - 🔗 Deliver scalable APIs and microservices
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -151,33 +140,6 @@
 
 ---
 
-## 🎯 Core Competencies
-
-| 🌐 Frontend | 🔧 Backend | 🤖 AI/ML | ☁️ Cloud |
-|---|---|---|---|
-| React & Next.js | REST APIs | ML Models | AWS |
-| TypeScript | Microservices | Deep Learning | Docker |
-| Tailwind CSS | Node.js & Python | Generative AI | Kubernetes |
-| Responsive Design | Database Optimization | Data Science | CI/CD |
-
----
-
-## 💪 Expertise Showcase
-
-<div align="center">
-
-| Skill Area | Proficiency |
-|---|---|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ |
-| **AI/ML Engineering** | ⭐⭐⭐⭐⭐ |
-| **Cloud Architecture** | ⭐⭐⭐⭐ |
-| **DevOps & Deployment** | ⭐⭐⭐⭐ |
-| **Database Design** | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
 ## 🔥 Activity & Contribution
 
 <div align="center">
@@ -200,30 +162,37 @@
 
 ---
 
-## 🌟 Let's Connect & Build Together!
-
-I'm passionate about **AI, Machine Learning, Cloud Architecture, and innovative web solutions**.
-Let's collaborate on something extraordinary!
-
 <div align="center">
 
-### Get in Touch
+## 🌟 Let's Connect & Build Together
 
-<a href="https://github.com/PremVishal21">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+I'm passionate about **AI, Machine Learning, Cloud Architecture, and innovative web solutions**. Let's collaborate on something extraordinary!
 
-<a href="https://www.linkedin.com/in/prem-vishal-362ba22a1">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
+### 📬 Get in Touch
 
-<a href="mailto:shovisjo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
+<p>
+  <a href="https://github.com/PremVishal21">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prem-vishal-362ba22a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shovisjo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br><br>
+### 💼 Open for Opportunities
 
-**Open for:** 💼 Full-time roles | 🤝 Freelance projects | 🤖 AI/ML collaborations | 🌐 Open-source contributions
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
+
+| 💼 Full-Time Roles | 🤝 Freelance Projects | 🤖 AI/ML Collaborations | 🌐 Open-Source |
+|:---:|:---:|:---:|:---:|
+| ✅ Available | ✅ Available | ✅ Available | ✅ Contributing |
+
+</div>
 
 </div>
 
