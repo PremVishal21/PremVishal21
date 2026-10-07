@@ -1,15 +1,9 @@
 <div align="center">
 
-# 👋 Prem Vishal
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,11,13,17&height=300&section=header&text=Prem%20Vishal&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=70)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PremVishal21&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/PremVishal21?style=social&label=Followers)
-
-<br>
-
-### 🚀 Full Stack Developer | 🤖 AI/ML Engineer | ☁️ Cloud Architect
-
-*Building intelligent, scalable solutions with modern technology*
 
 <br>
 
@@ -29,25 +23,39 @@
 
 ## 💼 About Me
 
-### Who I Am
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 15px; border-left: 4px solid #667eea;">
+
+### 🎯 Who I Am
+
 ```
-✨ Full Stack Developer passionate about building scalable, modern web applications
-🤖 AI/ML Engineer focused on intelligent, data-driven solutions
-☁️ Cloud enthusiast exploring AWS, Docker, and Kubernetes
-🚀 Generative AI builder creating LLM-powered experiences
-📊 Data science lover turning raw data into actionable insights
-🔧 DevOps-minded engineer automating deployment and delivery
-🎯 Problem solver who enjoys building elegant and efficient systems
+✨ Full Stack Developer with expertise in modern web technologies
+🤖 AI/ML Engineer specialized in intelligent solutions  
+☁️ Cloud architect proficient in AWS, Docker & Kubernetes
+🚀 Generative AI builder crafting LLM-powered experiences
+📊 Data science enthusiast turning insights into action
+🔧 DevOps engineer automating workflows seamlessly
+💡 Problem solver creating elegant, scalable systems
 ```
 
-### What I Do
-- 🌐 Build full-stack applications with clean architecture
-- 🤖 Develop AI/ML models and Generative AI integrations
-- ☁️ Design and deploy cloud-native systems
-- 📈 Optimize backend performance and database efficiency
-- 🔄 Implement CI/CD and automation workflows
-- 🧠 Create innovative products powered by intelligence
-- 🔗 Deliver scalable APIs and microservices
+</div>
+
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 157, 77, 0.1) 100%); padding: 25px; border-radius: 15px; border-left: 4px solid #FF6B6B;">
+
+### 🚀 What I Do
+
+- 🌐 **Full-Stack Development** → Build scalable applications with clean architecture
+- 🤖 **AI/ML Solutions** → Develop models and Generative AI integrations
+- ☁️ **Cloud Systems** → Design cloud-native infrastructure on AWS & GCP
+- 📈 **Performance** → Optimize backends, databases & API efficiency
+- 🔄 **Automation** → Implement CI/CD and DevOps pipelines
+- 🧠 **Innovation** → Create intelligent products powered by AI
+- 🔗 **Microservices** → Deliver scalable APIs and distributed systems
+
+</div>
+
+</div>
 
 ---
 
@@ -152,13 +160,19 @@
 
 ## 🚀 Quick Projects Highlights
 
-- ✨ **AI-Powered Applications** - LLM integrations and Generative AI solutions
-- 🌐 **Full-Stack Web Apps** - Modern React, Next.js, and Node.js applications
-- 📊 **ML Solutions** - Predictive models and data analysis pipelines
-- ☁️ **Cloud Infrastructure** - Scalable AWS & GCP deployments
-- 🔄 **Microservices** - Containerized, production-grade services
-- 🗄️ **Database Systems** - Optimized queries and performance tuning
-- 📱 **Responsive Designs** - Beautiful, user-centric interfaces
+<div align="center">
+
+| Project Type | Description |
+|---|---|
+| ✨ **AI-Powered Apps** | LLM integrations and Generative AI solutions |
+| 🌐 **Web Applications** | React, Next.js, and Node.js full-stack apps |
+| 📊 **ML Solutions** | Predictive models and data pipelines |
+| ☁️ **Cloud Systems** | Scalable AWS & GCP infrastructure |
+| 🔄 **Microservices** | Containerized production services |
+| 🗄️ **Databases** | Optimized queries and performance |
+| 📱 **UI/UX** | Beautiful, responsive interfaces |
+
+</div>
 
 ---
 
@@ -186,13 +200,26 @@ I'm passionate about **AI, Machine Learning, Cloud Architecture, and innovative 
 
 ### 💼 Open for Opportunities
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
-
-| 💼 Full-Time Roles | 🤝 Freelance Projects | 🤖 AI/ML Collaborations | 🌐 Open-Source |
-|:---:|:---:|:---:|:---:|
-| ✅ Available | ✅ Available | ✅ Available | ✅ Contributing |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>💼 Full-Time</strong><br>
+      <img src="https://img.shields.io/badge/Available-Yes-32CD32?style=flat" />
+    </td>
+    <td align="center" width="25%">
+      <strong>🤝 Freelance</strong><br>
+      <img src="https://img.shields.io/badge/Available-Yes-32CD32?style=flat" />
+    </td>
+    <td align="center" width="25%">
+      <strong>🤖 AI/ML</strong><br>
+      <img src="https://img.shields.io/badge/Collaborations-Yes-32CD32?style=flat" />
+    </td>
+    <td align="center" width="25%">
+      <strong>🌐 Open-Source</strong><br>
+      <img src="https://img.shields.io/badge/Contributing-Yes-32CD32?style=flat" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
